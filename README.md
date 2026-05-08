@@ -18,7 +18,7 @@ cd /your/mkstage4/directory
 chmod +x cpstage4.sh exstage4.sh mkstage4.sh
 ```
 
-For [Gentoo Linux](http://en.wikipedia.org/wiki/Gentoo_linux) and [Derivatives](http://en.wikipedia.org/wiki/Category:Gentoo_Linux_derivatives), mkstage4 is also available in [Portage](http://en.wikipedia.org/wiki/Portage_(software)) via [the Chymeric Overlay](https://github.com/TheChymera/overlay).
+For [Gentoo Linux](http://en.wikipedia.org/wiki/Gentoo_linux) and [derivatives](http://en.wikipedia.org/wiki/Category:Gentoo_Linux_derivatives), mkstage4 is also available in [Portage](http://en.wikipedia.org/wiki/Portage_(software)) via [the Chymeric Overlay](https://github.com/TheChymera/overlay).
 On any Gentoo system, after [having enabled the aforementioned overlay](https://github.com/TheChymera/overlay#install), just run the following command:
 
 ```bash
